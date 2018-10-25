@@ -1,0 +1,10 @@
+spring:
+  mvc:
+    view:
+      suffix: .jsp
+      prefix: /WEB-INF/views/
+
+#server:
+#  error:
+#    whitelabel:
+#      enabled: false
